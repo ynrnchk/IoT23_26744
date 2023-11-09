@@ -1,0 +1,14 @@
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.Rest
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/appsettings.Development.json
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/appsettings.json
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.Rest.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.Rest.deps.json
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.Rest.runtimeconfig.json
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.Rest.pdb
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Microsoft.OpenApi.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.DTO.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.DTO.pdb

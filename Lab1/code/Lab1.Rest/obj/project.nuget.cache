@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3b2SAYzrbLTLoueIV65UiR2Kfq2VNX2RrFgdMnEehJ4GJ52caVMw5OhUln+B78/d7w+Y60VennVSLkEw0CQPw==",
+  "success": true,
+  "projectFilePath": "/Users/yanaronchyk/Desktop/IoT23_26744/Lab1.Rest/Lab1.Rest.csproj",
+  "expectedPackageFiles": [
+    "/Users/yanaronchyk/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/yanaronchyk/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/yanaronchyk/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/yanaronchyk/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/yanaronchyk/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/yanaronchyk/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/yanaronchyk/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.DTO.dll
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.DTO.deps.json
+/Users/yanaronchyk/Desktop/IoT23_26744/publish/Lab1.DTO.pdb
