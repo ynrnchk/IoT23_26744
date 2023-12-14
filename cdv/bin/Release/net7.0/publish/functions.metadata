@@ -1,0 +1,31 @@
+[
+  {
+    "name": "PeopleFN",
+    "scriptFile": "cdv.dll",
+    "entryPoint": "DYakovenko.Function.PeopleFN.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "get",
+          "post",
+          "put",
+          "delete"
+        ],
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  }
+]
